@@ -2,8 +2,8 @@
 //  NoRetainTimer.h
 //  Common
 //
-//  Created by yannizhang on 16/1/15.
-//  Copyright © 2016年 tencent. All rights reserved.
+//  Created by Chenkaijie on 2018/7/4.
+//  Copyright © 2018年 tencent. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
