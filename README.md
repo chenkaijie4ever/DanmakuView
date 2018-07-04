@@ -64,7 +64,7 @@ The protocol JCDanmakuViewDelegate provide event's callback, it is optional. Typ
 ```
 ## What does it look like
 
-<img src="https://github.com/chenkaijie4ever/DanmakuView/DanmakuView/blob/master/ScreenShot/1.gif" width="571" />
+<img src="https://github.com/chenkaijie4ever/DanmakuView/blob/master/DanmakuView/ScreenShot/1.gif" width="571" />
 
 ## Author
 
